@@ -100,4 +100,3 @@ cout << "TERIMAKASIH TELAH MENGGUNAKAN APLIKASI INI!!" << endl;
 cin.get();
 return 0;
 }
-# TugasPraktikumAlgoritma
