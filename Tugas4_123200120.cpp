@@ -18,9 +18,8 @@ int perpangkatan(int angka1, int angka2){
 }
 
 int main(){
-	int opsi,angka1,angka2,hasil;
+	int opsi,angka1,angka2;
 	int a = 1;
-	int b = 1;
 
 	cout << "Perkalian dan Perpangkatan=====" << endl;
 	cout << "1. Perkalian" << endl;
